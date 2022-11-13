@@ -10,21 +10,18 @@
 ############################
 
 # Name of website
-title: My Website
+title: Gridware CTF Writeups
 
 # Your name to show in the footer
-author: Some Person
+author: Gridware
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Us: "aboutme"
+  Author's home: "https://www.gridware.com.au/"
 
 ################
 # --- Logo --- #
